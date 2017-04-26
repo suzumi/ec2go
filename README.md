@@ -4,9 +4,8 @@ show ec2 instance list
 
 ## Installation
 
-```
-$ go get github.com/suzumi/ec2go
-```
+Please download binary from release page below.<br>
+https://github.com/suzumi/ec2go/releases
 
 ## Usage
 
